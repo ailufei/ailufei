@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../modul/DDIPPI/.idea/DDIPPI.iml" filepath="$PROJECT_DIR$/../modul/DDIPPI/.idea/DDIPPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MY_CCI.iml" filepath="$PROJECT_DIR$/.idea/MY_CCI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modul/.idea/modul.iml" filepath="$PROJECT_DIR$/../modul/.idea/modul.iml" />
+    </modules>
+  </component>
+</project>
